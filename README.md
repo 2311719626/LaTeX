@@ -65,4 +65,6 @@ Survive-WUST-Manual（武汉科技大学生存手册）项目灵感来自于Surv
 | 复旦生存手册            | https://fudanmanual.github.io/FudanManual/Intro/ |
 | 暨南大学生存指南          | https://jnu.shuhui.li/                           |
 | 南方科技大学飞跃手册        | https://sustech-application.com/#/               |
-
+| CS自学指南       | https://csdiy.wiki/                                     |
+| 西安交大生存指南        | https://djm-xjtu.github.io/XJTU-Survival-Manual/ |
+| 清华大学飞跃手册        | https://feiyue.online/      |
