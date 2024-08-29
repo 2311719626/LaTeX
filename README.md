@@ -6,7 +6,8 @@ Survive-WUST-Manual（武汉科技大学生存手册）项目灵感来自于Surv
 
 <武汉科技大学生存手册>由一群武科大本科生（计算机学院学生为主）写就，手册写作灵感来自于上海交通大学生存手册。本手册与上交大版本不同之处在于——**本手册是依据武汉科技大学真实情况写就的，对原版本中的许多内容进行了适用性修改。**
 
-[项目网页链接](https://www.survivewustmanual.cn)
+\[项目网页链接\] https://www.survivewustmanual.cn
+
 [PDF下载]请在Realases处查阅
 
 # 文档的 LaTeX 编码
