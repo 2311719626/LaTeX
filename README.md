@@ -8,7 +8,7 @@ Survive-WUST-Manual（武汉科技大学生存手册）项目灵感来自于Surv
 
 \[项目网页链接\] https://www.survivewustmanual.cn
 
-[PDF下载]请在Realases处查阅
+[PDF下载]请在Releases处查阅
 
 # 文档的 LaTeX 编码
 
